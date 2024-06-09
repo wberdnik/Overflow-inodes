@@ -1,2 +1,2 @@
-# Overflow-inodes
-Overflow inodes in the disk solution
+## Overflow inodes table solution in unix
+* An inode (index node) is a data structure found in many Unix file systems. 
